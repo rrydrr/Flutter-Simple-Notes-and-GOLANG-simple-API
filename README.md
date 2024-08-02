@@ -2,9 +2,9 @@
 
 1. Run the GOLANG API first using the command
 !!! Make sure you're in this project's folder
-`cd API
-go get .
-go run .`
+`cd API`
+`go get .`
+`go run .`
 
 2. Then, run ipconfig on your windows pc
 `ipconfig`
@@ -16,7 +16,7 @@ Note1: it is located in ./ui/home.dart (It is marked by a big "TODO" just use ct
 Note2: Don't forget to use "http://" in front of your URI
 
 4. All set. Just run like usual using f5 or using this command
-`cd ..
-flutter run`
+`cd ..`
+`flutter run`
 
 5. Profit.
